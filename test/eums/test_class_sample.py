@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from mock import patch, Mock, MagicMock
+from unittest.mock import patch, Mock, MagicMock
 
 from tw.eums.class_sample import ClassSample
 
